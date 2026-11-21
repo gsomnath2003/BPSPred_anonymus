@@ -93,22 +93,3 @@ streamlit run BPSPred.py
 * Peptides
 * OpenPyXL
 * Plotly
-
----
-
-## ⚠️ Disclaimer
-
-BPSPred is intended for **research and preliminary computational screening**. Predictions should not be considered a substitute for experimental validation.
-
----
-
-
----
-
-## 👨‍🔬 Developers
-
-**BPSPred Development Team**
-Prof. Kunal Roy and his team,
-DTC Laboratory, 
-Department of Pharmaceutical Technology,
-Jadavpur University, Kolkata, India
